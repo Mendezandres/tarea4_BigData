@@ -1,0 +1,702 @@
+[
+    {
+        "nombre":"Falta Pro",
+        "categoria":"Hogar",
+        "precio":384482.6,
+        "stock":493,
+        "disponible":true
+    },
+    {
+        "nombre":"Cierto Pro",
+        "categoria":"Salud",
+        "precio":149982.12,
+        "stock":7,
+        "disponible":true
+    },
+    {
+        "nombre":"Pasado Max",
+        "categoria":"Salud",
+        "precio":1926096.9299999999,
+        "stock":173,
+        "disponible":true
+    },
+    {
+        "nombre":"Don Max",
+        "categoria":"Deportes",
+        "precio":1645384.9099999999,
+        "stock":430,
+        "disponible":true
+    },
+    {
+        "nombre":"Técnica Max",
+        "categoria":"Electrónica",
+        "precio":614138.63,
+        "stock":323,
+        "disponible":false
+    },
+    {
+        "nombre":"Mundial Plus",
+        "categoria":"Electrónica",
+        "precio":948263.52,
+        "stock":390,
+        "disponible":true
+    },
+    {
+        "nombre":"Encuentra Pro",
+        "categoria":"Salud",
+        "precio":423668.98,
+        "stock":264,
+        "disponible":true
+    },
+    {
+        "nombre":"Paciente Lite",
+        "categoria":"Hogar",
+        "precio":254296.91,
+        "stock":412,
+        "disponible":false
+    },
+    {
+        "nombre":"Vamos Pro",
+        "categoria":"Hogar",
+        "precio":1846164.48,
+        "stock":14,
+        "disponible":true
+    },
+    {
+        "nombre":"Nuevas Max",
+        "categoria":"Salud",
+        "precio":1421038.1000000001,
+        "stock":39,
+        "disponible":true
+    },
+    {
+        "nombre":"Manos Pro",
+        "categoria":"Deportes",
+        "precio":1152184.03,
+        "stock":336,
+        "disponible":false
+    },
+    {
+        "nombre":"Casos Max",
+        "categoria":"Deportes",
+        "precio":177839.56,
+        "stock":4,
+        "disponible":true
+    },
+    {
+        "nombre":"Política Lite",
+        "categoria":"Hogar",
+        "precio":1397436.4099999999,
+        "stock":354,
+        "disponible":false
+    },
+    {
+        "nombre":"Total Pro",
+        "categoria":"Electrónica",
+        "precio":254800.84,
+        "stock":99,
+        "disponible":false
+    },
+    {
+        "nombre":"Camino Plus",
+        "categoria":"Electrónica",
+        "precio":152708.83,
+        "stock":107,
+        "disponible":false
+    },
+    {
+        "nombre":"Dólares Pro",
+        "categoria":"Ropa",
+        "precio":1422022.8200000001,
+        "stock":44,
+        "disponible":true
+    },
+    {
+        "nombre":"Ministro Max",
+        "categoria":"Ropa",
+        "precio":664082.22,
+        "stock":448,
+        "disponible":true
+    },
+    {
+        "nombre":"G Pro",
+        "categoria":"Ropa",
+        "precio":123120.88,
+        "stock":453,
+        "disponible":true
+    },
+    {
+        "nombre":"Alguien Lite",
+        "categoria":"Electrónica",
+        "precio":1817200.29,
+        "stock":155,
+        "disponible":false
+    },
+    {
+        "nombre":"Frente Pro",
+        "categoria":"Ropa",
+        "precio":1689138.49,
+        "stock":223,
+        "disponible":true
+    },
+    {
+        "nombre":"Donde Pro",
+        "categoria":"Ropa",
+        "precio":1533870.05,
+        "stock":317,
+        "disponible":true
+    },
+    {
+        "nombre":"Nos Pro",
+        "categoria":"Salud",
+        "precio":1824210.9399999999,
+        "stock":181,
+        "disponible":true
+    },
+    {
+        "nombre":"México Lite",
+        "categoria":"Deportes",
+        "precio":1246037.54,
+        "stock":56,
+        "disponible":true
+    },
+    {
+        "nombre":"Propio Pro",
+        "categoria":"Deportes",
+        "precio":1613172.9299999999,
+        "stock":233,
+        "disponible":false
+    },
+    {
+        "nombre":"Nuestras Pro",
+        "categoria":"Ropa",
+        "precio":89912.31,
+        "stock":252,
+        "disponible":true
+    },
+    {
+        "nombre":"Verdad Plus",
+        "categoria":"Salud",
+        "precio":1226729.6699999999,
+        "stock":431,
+        "disponible":false
+    },
+    {
+        "nombre":"Verdad Plus",
+        "categoria":"Salud",
+        "precio":1959965.4199999999,
+        "stock":92,
+        "disponible":true
+    },
+    {
+        "nombre":"Nos Plus",
+        "categoria":"Salud",
+        "precio":825442.0699999999,
+        "stock":314,
+        "disponible":false
+    },
+    {
+        "nombre":"Puedo Pro",
+        "categoria":"Deportes",
+        "precio":755612.77,
+        "stock":308,
+        "disponible":true
+    },
+    {
+        "nombre":"Perdido Lite",
+        "categoria":"Ropa",
+        "precio":593090.3,
+        "stock":53,
+        "disponible":true
+    },
+    {
+        "nombre":"Resto Pro",
+        "categoria":"Hogar",
+        "precio":885280.34,
+        "stock":111,
+        "disponible":false
+    },
+    {
+        "nombre":"Hechos Plus",
+        "categoria":"Ropa",
+        "precio":1897416.45,
+        "stock":136,
+        "disponible":true
+    },
+    {
+        "nombre":"Curso Plus",
+        "categoria":"Ropa",
+        "precio":335469.23,
+        "stock":55,
+        "disponible":true
+    },
+    {
+        "nombre":"Particular Pro",
+        "categoria":"Deportes",
+        "precio":1603374.76,
+        "stock":486,
+        "disponible":true
+    },
+    {
+        "nombre":"Médico Lite",
+        "categoria":"Hogar",
+        "precio":246437.73,
+        "stock":434,
+        "disponible":true
+    },
+    {
+        "nombre":"Victoria Pro",
+        "categoria":"Salud",
+        "precio":204460.55,
+        "stock":314,
+        "disponible":true
+    },
+    {
+        "nombre":"Segunda Lite",
+        "categoria":"Electrónica",
+        "precio":1551960.74,
+        "stock":290,
+        "disponible":false
+    },
+    {
+        "nombre":"Premio Lite",
+        "categoria":"Ropa",
+        "precio":1764779.77,
+        "stock":67,
+        "disponible":true
+    },
+    {
+        "nombre":"Medio Max",
+        "categoria":"Salud",
+        "precio":226141.6,
+        "stock":97,
+        "disponible":true
+    },
+    {
+        "nombre":"Tipo Lite",
+        "categoria":"Salud",
+        "precio":550377.04,
+        "stock":187,
+        "disponible":false
+    },
+    {
+        "nombre":"Modelo Max",
+        "categoria":"Deportes",
+        "precio":627674.16,
+        "stock":446,
+        "disponible":true
+    },
+    {
+        "nombre":"Particular Plus",
+        "categoria":"Hogar",
+        "precio":1642810.6000000001,
+        "stock":350,
+        "disponible":true
+    },
+    {
+        "nombre":"Guerra Lite",
+        "categoria":"Hogar",
+        "precio":232742.82,
+        "stock":290,
+        "disponible":true
+    },
+    {
+        "nombre":"Medios Max",
+        "categoria":"Hogar",
+        "precio":1580740.1000000001,
+        "stock":102,
+        "disponible":false
+    },
+    {
+        "nombre":"M Max",
+        "categoria":"Hogar",
+        "precio":1712274.24,
+        "stock":226,
+        "disponible":true
+    },
+    {
+        "nombre":"Jefe Max",
+        "categoria":"Salud",
+        "precio":735050.8100000001,
+        "stock":356,
+        "disponible":false
+    },
+    {
+        "nombre":"Desde Pro",
+        "categoria":"Ropa",
+        "precio":1289082.74,
+        "stock":291,
+        "disponible":true
+    },
+    {
+        "nombre":"Pone Pro",
+        "categoria":"Hogar",
+        "precio":1285261.1100000001,
+        "stock":254,
+        "disponible":true
+    },
+    {
+        "nombre":"Era Lite",
+        "categoria":"Salud",
+        "precio":471714.44,
+        "stock":13,
+        "disponible":true
+    },
+    {
+        "nombre":"Dólares Plus",
+        "categoria":"Electrónica",
+        "precio":16494.43,
+        "stock":137,
+        "disponible":true
+    },
+    {
+        "nombre":"Destino Lite",
+        "categoria":"Deportes",
+        "precio":122936.16,
+        "stock":75,
+        "disponible":true
+    },
+    {
+        "nombre":"Televisión Lite",
+        "categoria":"Electrónica",
+        "precio":1691077.8500000001,
+        "stock":297,
+        "disponible":true
+    },
+    {
+        "nombre":"Del Max",
+        "categoria":"Deportes",
+        "precio":46395.96,
+        "stock":257,
+        "disponible":true
+    },
+    {
+        "nombre":"Vino Plus",
+        "categoria":"Ropa",
+        "precio":1324417.96,
+        "stock":382,
+        "disponible":false
+    },
+    {
+        "nombre":"Buen Plus",
+        "categoria":"Deportes",
+        "precio":37148.96,
+        "stock":328,
+        "disponible":true
+    },
+    {
+        "nombre":"Parece Lite",
+        "categoria":"Deportes",
+        "precio":1854947.1100000001,
+        "stock":70,
+        "disponible":true
+    },
+    {
+        "nombre":"Calidad Lite",
+        "categoria":"Salud",
+        "precio":189589.75,
+        "stock":424,
+        "disponible":true
+    },
+    {
+        "nombre":"Hacer Max",
+        "categoria":"Deportes",
+        "precio":997558.41,
+        "stock":44,
+        "disponible":true
+    },
+    {
+        "nombre":"El Max",
+        "categoria":"Electrónica",
+        "precio":850994.3100000001,
+        "stock":49,
+        "disponible":false
+    },
+    {
+        "nombre":"Volver Pro",
+        "categoria":"Hogar",
+        "precio":1983467.1100000001,
+        "stock":191,
+        "disponible":true
+    },
+    {
+        "nombre":"Hombre Plus",
+        "categoria":"Hogar",
+        "precio":506093.18,
+        "stock":87,
+        "disponible":false
+    },
+    {
+        "nombre":"O Pro",
+        "categoria":"Ropa",
+        "precio":766706.73,
+        "stock":119,
+        "disponible":true
+    },
+    {
+        "nombre":"Pocos Lite",
+        "categoria":"Deportes",
+        "precio":514469.31,
+        "stock":85,
+        "disponible":true
+    },
+    {
+        "nombre":"Ayer Max",
+        "categoria":"Salud",
+        "precio":508354.15,
+        "stock":106,
+        "disponible":false
+    },
+    {
+        "nombre":"Obra Pro",
+        "categoria":"Electrónica",
+        "precio":1523851.46,
+        "stock":213,
+        "disponible":true
+    },
+    {
+        "nombre":"Dan Plus",
+        "categoria":"Ropa",
+        "precio":218738.69,
+        "stock":61,
+        "disponible":true
+    },
+    {
+        "nombre":"Largo Plus",
+        "categoria":"Electrónica",
+        "precio":1877846.79,
+        "stock":179,
+        "disponible":true
+    },
+    {
+        "nombre":"Propuesta Lite",
+        "categoria":"Deportes",
+        "precio":1883704.77,
+        "stock":434,
+        "disponible":false
+    },
+    {
+        "nombre":"Términos Lite",
+        "categoria":"Hogar",
+        "precio":1665026.97,
+        "stock":365,
+        "disponible":false
+    },
+    {
+        "nombre":"Hijos Pro",
+        "categoria":"Hogar",
+        "precio":131412.69,
+        "stock":475,
+        "disponible":true
+    },
+    {
+        "nombre":"Estos Max",
+        "categoria":"Salud",
+        "precio":1649148.95,
+        "stock":179,
+        "disponible":true
+    },
+    {
+        "nombre":"Embargo Lite",
+        "categoria":"Electrónica",
+        "precio":201241.1,
+        "stock":289,
+        "disponible":true
+    },
+    {
+        "nombre":"Objeto Plus",
+        "categoria":"Deportes",
+        "precio":1532804.1699999999,
+        "stock":381,
+        "disponible":true
+    },
+    {
+        "nombre":"Bien Pro",
+        "categoria":"Electrónica",
+        "precio":1179839.8500000001,
+        "stock":9,
+        "disponible":true
+    },
+    {
+        "nombre":"Compañía Pro",
+        "categoria":"Hogar",
+        "precio":551859.1,
+        "stock":465,
+        "disponible":true
+    },
+    {
+        "nombre":"Argentina Lite",
+        "categoria":"Electrónica",
+        "precio":1376997.1499999999,
+        "stock":333,
+        "disponible":false
+    },
+    {
+        "nombre":"Pueblo Max",
+        "categoria":"Salud",
+        "precio":1398469.24,
+        "stock":107,
+        "disponible":false
+    },
+    {
+        "nombre":"Central Pro",
+        "categoria":"Hogar",
+        "precio":557058.33,
+        "stock":424,
+        "disponible":false
+    },
+    {
+        "nombre":"Jóvenes Max",
+        "categoria":"Electrónica",
+        "precio":70536.5,
+        "stock":219,
+        "disponible":false
+    },
+    {
+        "nombre":"Términos Max",
+        "categoria":"Electrónica",
+        "precio":556295.61,
+        "stock":72,
+        "disponible":true
+    },
+    {
+        "nombre":"Cualquier Lite",
+        "categoria":"Salud",
+        "precio":1414337.5800000001,
+        "stock":107,
+        "disponible":true
+    },
+    {
+        "nombre":"Principal Plus",
+        "categoria":"Electrónica",
+        "precio":300223.03,
+        "stock":445,
+        "disponible":true
+    },
+    {
+        "nombre":"Medida Plus",
+        "categoria":"Deportes",
+        "precio":770212.53,
+        "stock":75,
+        "disponible":true
+    },
+    {
+        "nombre":"José Plus",
+        "categoria":"Salud",
+        "precio":1930338.1000000001,
+        "stock":465,
+        "disponible":true
+    },
+    {
+        "nombre":"Acerca Pro",
+        "categoria":"Deportes",
+        "precio":1351240.9399999999,
+        "stock":230,
+        "disponible":true
+    },
+    {
+        "nombre":"Consumo Max",
+        "categoria":"Deportes",
+        "precio":1551695.46,
+        "stock":147,
+        "disponible":true
+    },
+    {
+        "nombre":"Ayer Lite",
+        "categoria":"Salud",
+        "precio":1364399.4299999999,
+        "stock":481,
+        "disponible":false
+    },
+    {
+        "nombre":"Medida Lite",
+        "categoria":"Hogar",
+        "precio":376719.54,
+        "stock":145,
+        "disponible":false
+    },
+    {
+        "nombre":"Creo Pro",
+        "categoria":"Electrónica",
+        "precio":22385.21,
+        "stock":484,
+        "disponible":false
+    },
+    {
+        "nombre":"República Pro",
+        "categoria":"Salud",
+        "precio":435813.39,
+        "stock":101,
+        "disponible":true
+    },
+    {
+        "nombre":"Algunas Plus",
+        "categoria":"Salud",
+        "precio":1699429.5800000001,
+        "stock":59,
+        "disponible":false
+    },
+    {
+        "nombre":"Resultados Plus",
+        "categoria":"Salud",
+        "precio":1096866.26,
+        "stock":425,
+        "disponible":true
+    },
+    {
+        "nombre":"Juez Plus",
+        "categoria":"Ropa",
+        "precio":63741.91,
+        "stock":309,
+        "disponible":false
+    },
+    {
+        "nombre":"Noche Pro",
+        "categoria":"Ropa",
+        "precio":200908.49,
+        "stock":119,
+        "disponible":true
+    },
+    {
+        "nombre":"Considera Max",
+        "categoria":"Electrónica",
+        "precio":434859.21,
+        "stock":315,
+        "disponible":true
+    },
+    {
+        "nombre":"Tiene Pro",
+        "categoria":"Salud",
+        "precio":1215917.96,
+        "stock":342,
+        "disponible":false
+    },
+    {
+        "nombre":"Palabras Pro",
+        "categoria":"Salud",
+        "precio":1088628.6200000001,
+        "stock":388,
+        "disponible":true
+    },
+    {
+        "nombre":"Señaló Max",
+        "categoria":"Electrónica",
+        "precio":1646118.8899999999,
+        "stock":126,
+        "disponible":true
+    },
+    {
+        "nombre":"Democracia Plus",
+        "categoria":"Deportes",
+        "precio":1603820.46,
+        "stock":29,
+        "disponible":false
+    },
+    {
+        "nombre":"Sé Lite",
+        "categoria":"Ropa",
+        "precio":281887.54,
+        "stock":232,
+        "disponible":false
+    }
+]
