@@ -1,6 +1,19 @@
-# tarea4_BigData
-Este repositorio tiene el desarrollo del diseño de una base de datos en MongoDB en la que desarrollara lo siguiente:
+# Taller MongoDB – Tienda Online
 
-• Implementar consultas utilizando el lenguaje de consulta deMongoDB para realizar las siguientes operaciones:
-   o Consultas básicas (inserción, selección, actualización yeliminación de documentos).
-   o Consultas con filtros y operadores.o Consultas de agregación para calcular estadísticas(contar, sumar, promediar, etc.).
+Este repositorio contiene el desarrollo del taller de bases de datos NoSQL utilizando MongoDB.  
+El caso de estudio corresponde a una **tienda en línea** con tres colecciones principales:
+
+- `usuarios`
+- `productos`
+- `pedidos`
+
+---
+
+## 📁 Estructura del repositorio
+
+tarea4_BigData/
+│
+├── datos/ # Datos usados para cargar en MongoDB
+├── scripts/ # Scripts de Python y consultas Mongo
+├── documentacion/ # Informe formal del proyecto
+└── README.md # Este archivo
