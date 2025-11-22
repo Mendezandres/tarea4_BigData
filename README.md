@@ -17,7 +17,7 @@ El caso de estudio corresponde a una **tienda en línea** con nueve colecciones 
 ## 📁 Estructura del repositorio
 
 tarea4_BigData/
-│
+
 ├── datos/ # Datos usados para cargar en MongoDB
 ├── scripts/ # consultas Mongo
 ├── documentacion/ # Informe formal del proyecto
