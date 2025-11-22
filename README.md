@@ -41,6 +41,13 @@ Cada script incluye las consultas solicitadas en el taller.
 Ejecutar:
 
 ```bash
-mongoimport --db tienda_online --collection usuarios --file datos/usuarios.json --jsonArray
+mongoimport --db tienda_online --collection usuarios --file datos/clientes.json --jsonArray
 mongoimport --db tienda_online --collection productos --file datos/productos.json --jsonArray
 mongoimport --db tienda_online --collection pedidos --file datos/pedidos.json --jsonArray
+mongoimport --db tienda_online --collection usuarios --file datos/items_pedido.json --jsonArray
+mongoimport --db tienda_online --collection productos --file datos/carrito.json --jsonArray
+mongoimport --db tienda_online --collection pedidos --file datos/reseñas.json --jsonArray
+mongoimport --db tienda_online --collection usuarios --file datos/categorias.json --jsonArray
+mongoimport --db tienda_online --collection productos --file datos/direcciones.json --jsonArray
+mongoimport --db tienda_online --collection pedidos --file datos/transacciones.json --jsonArray
+
