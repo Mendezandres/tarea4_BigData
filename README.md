@@ -19,7 +19,7 @@ El caso de estudio corresponde a una **tienda en línea** con nueve colecciones 
 tarea4_BigData/
 │
 ├── datos/ # Datos usados para cargar en MongoDB
-├── scripts/ # Scripts de Python y consultas Mongo
+├── scripts/ # consultas Mongo
 ├── documentacion/ # Informe formal del proyecto
 └── README.md # Este archivo
 
